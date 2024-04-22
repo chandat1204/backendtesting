@@ -1,0 +1,2 @@
+Trong cơ sở dữ liệu MySQL thí select cột nhanh hơn select tất cả trong một bảng
+Vì select một cột có chi phí thấp hơn select tất cả trong một bảng 
